@@ -82,7 +82,7 @@ Post App.jsx edit:
 
 15. To deploy the application, right click on your project (if using Eclipse; may be different for other IDEs) and click 'Run as' then 'Maven Build...'.
 
-16. Specify 'package' as a goal and click run. Check the 'target/' folder in your project to confirm you see a file called 'spring-react-vite-cli-0.0.1-SNAPSHOT.jar'.
+16. Specify 'package' as a goal and click run. Check the 'target/' folder in your project to confirm you see a file called 'spring-react-vite-template-0.0.1-SNAPSHOT.jar'.
 
 ![Maven build](https://github.com/seanpolid/spring-react-vite-images/blob/main/maven-build.png?raw=true)
 
