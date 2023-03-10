@@ -89,7 +89,7 @@ Post App.jsx edit:
 ![target folder](https://github.com/seanpolid/spring-react-vite-images/blob/main/target-folder.png?raw=true)
 
 17. Make sure that the Spring Boot server from before isn't still running. If it isn't, then navigate to the target folder using the terminal and run the following command:
-<blockquote>java -jar spring-react-vite-cli-0.0.1-SNAPSHOT.jar</blockquote>
+<blockquote>java -jar spring-react-vite-template-0.0.1-SNAPSHOT.jar</blockquote>
 
 ![java jar deploy](https://github.com/seanpolid/spring-react-vite-images/blob/main/java-jar-deploy.png?raw=true)
 
