@@ -10,6 +10,6 @@ This project will demonstrate how we can combine React with Spring Boot. To acco
   <li>Our backend and frontend can operate on the same port (so we don't have to label our REST controller with @CrossOrigin nor change the port of our frontend)</li>
 </ul>
 
-Although the current project works as is, the following instructions will show how we can reach create it from scratch (I will assume that you have Node.js installed locally on your machine). 
+Although the current project works as is, the following instructions will show how we can create it from scratch (I will assume that you have Node.js installed locally on your machine). 
 
 <h2>Instructions</h2>
