@@ -7,7 +7,7 @@ This project will demonstrate how we can combine React with Spring Boot. To acco
   <li>We can write our React-based frontend as JSX files without having to manually compile them into JavaScript</li>
   <li>Our compiled JavaScript will automatically be placed into our src/main/resources/static folder</li>
   <li>We can take advantage of Spring Boot's hot reload feature (with one caveat)</li>
-  <li>Our backend and frontend can operate on the same port (so we don't have to label our REST controller with @CrossOrigin nor change the port of our frontend)</li>
+  <li>Our backend and frontend can operate on the same port (so we don't have to label our REST controller with @CrossOrigin nor change the port of our frontend; If you want to be able to use the Vite dev server, use the annotation @CrossOrigin(origins={"http://localhost:5173"}) above the necessary controllers)</li>
 </ul>
 
 Although the current project works as is, the following instructions will show how we can create it from scratch (I will assume that you have Node.js installed locally on your machine). 
